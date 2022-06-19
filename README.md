@@ -5,3 +5,6 @@ A simple snake-like game written for windows command prompt in Visual Studio.
 
 # Controls
 WASD to change direction.
+
+# How to open
+Just open file snake.exe
